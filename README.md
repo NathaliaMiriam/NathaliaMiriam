@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @NathaliaMiriam
+- 👋 Hi, I’m Nathália Miriam Alves da Silva.
 - 👀 I’m interested in Front-end Development!
 - 🌱 I’m currently learning HTML5, CSS3 and JavaScript :D
 - 📫 You can reach me at: https://www.linkedin.com/in/nath%C3%A1lia-miriam/

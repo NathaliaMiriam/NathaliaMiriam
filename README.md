@@ -1,16 +1,14 @@
-__
-<h1 align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Verdana&pause=1000&color=ff6095&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Nathália+Miriam!;Software+Engineer!" alt="Typing SVG" /></a>
-</h1>
-<br>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=d81159&height=100&section=header"/>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=f3f3f3&size=30&center=true&vCenter=true&width=1000&lines=HELLO,+my+name+is+Nathália+Miriam;I'm+Mobile+and+Frontend+Developer;Be+Welcome!+:%29)](https://git.io/typing-svg)
+
 <div align="center" style="margin-bottom:100px">
   <a href="https://github.com/NathaliaMiriam">
   <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=NathaliaMiriam&theme=radical&mode=weekly" />
   <img width=40% align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NathaliaMiriam&layout=compact&langs_count=7&theme=radical&count_private=true"/>
 </div>
-
 <br>
-<div style="display: inline_block"><br>
+<div style="display: inline_block">
   <img align="center" alt="kotlin" height="26" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg">          
   <img align="center" alt="android" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg">
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -48,6 +46,5 @@ __
   <a href="https://www.instagram.com/nathaaliamiriam/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>  
 </div>
 
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=d81159&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=d81159&height=100&section=footer"/>
 

@@ -1,9 +1,11 @@
 # 👋🏽 Hi, I’m Nathália Miriam, Software Engineer!
 <br>
 <div align="center" style="margin-bottom:100px">
+  <a href="https://github.com/NathaliaMiriam">
   <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=NathaliaMiriam&theme=radical&mode=weekly" />
-  <img width=40% align="center" src="https://github-readme-stats-git-main-NathaliaMiriam.vercel.app/api/top-langs/?username=NathaliaMiriam&show_icons=true&theme=radical&layout=compact" />
+  <img width=40% align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NathaliaMiriam&layout=compact&langs_count=7&theme=radical&count_private=true"/>
 </div>
+
 <br>
 <div style="display: inline_block"><br>
   <img align="center" alt="kotlin" height="26" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg">          
@@ -44,5 +46,5 @@
 </div>
 
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=d81159&height=120&section=footer"/>
 

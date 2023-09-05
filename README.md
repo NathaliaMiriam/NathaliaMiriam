@@ -1,4 +1,7 @@
-# 👋🏽 Hi, I’m Nathália Miriam, Software Engineer!
+__
+<h1 align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Verdana&pause=1000&color=ff6095&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Nathália+Miriam!;Software+Engineer!" alt="Typing SVG" /></a>
+</h1>
 <br>
 <div align="center" style="margin-bottom:100px">
   <a href="https://github.com/NathaliaMiriam">
